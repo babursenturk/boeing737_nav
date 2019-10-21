@@ -1,0 +1,12 @@
+flash  DA2 SRAM   18:
+ 00 193 bytes
+flash  DA6 SRAM   D9:
+ <size at next line>   5  A  F 14 19 1E 23 28 2D 32 37 3C 41 46 4B 50 55 5A 5F
+  [size:] 19 bytes
+flash  DBC SRAM   EC:
+ 00 20 bytes
+flash  DC0 SRAM  10F:
+ <size at next line>   8  9  A  B  C  D  E  F 10 11
+  [size:] 10 bytes
+flash  DCD SRAM  119:
+ 00 29 bytes
